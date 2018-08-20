@@ -1,7 +1,3 @@
-# bye
-
-> life's aweful
-
 ## Build Setup
 
 ``` bash
